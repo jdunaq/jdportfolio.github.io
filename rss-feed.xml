@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Jess Dunsmore's Blog</title>
+    <link>https://jdunaq.github.io/jdportfolio.github.io/blog.html</link>
+    <description>Jess Dunsmore's personal blog about engineering, running, and more.</description>
+    <language>en-us</language>
+    <atom:link href="https://jdunaq.github.io/jdportfolio.github.io/rss-feed.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+        <title>Musings on running</title>
+        <link>https://jdunaq.github.io/jdportfolio.github.io/blog%20posts/Post2.html</link>
+        <description>A blog post about running and its impact on life.</description>
+        <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
+        <guid>https://jdunaq.github.io/jdportfolio.github.io/blog%20posts/Post2.html</guid>
+    </item>
+    
+    <item>
+        <title>Journey of an engineering grad</title>
+        <link>https://jdunaq.github.io/jdportfolio.github.io/blog%20posts/Post1.html</link>
+        <description>Reflections on the journey through engineering education and beyond.</description>
+        <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+        <guid>https://jdunaq.github.io/jdportfolio.github.io/blog%20posts/Post1.html</guid>
+    </item>
+</channel>
+</rss>
